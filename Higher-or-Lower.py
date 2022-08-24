@@ -1,5 +1,6 @@
 import random
 
+# First Fully built solo project
 
 def is_higher(card, next_card):
     # Checks to make sure its not a tie. Ties = lose
